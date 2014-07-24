@@ -1,4 +1,4 @@
 wormhole
 ========
 
-app i built while learning node
+App using Famous on Meteor
